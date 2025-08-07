@@ -45,8 +45,8 @@
 
 2. Установите зависимости
    ```bash
-   git clone <URL_репозитория>
-   cd <название_репозитория>
+   pip install -r requirements.txt
+
 
 3. Откройте jupyter notebook (например, в Kaggle, Collab или локально с GPU)
     ```bash

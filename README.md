@@ -40,8 +40,8 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone <URL_репозитория>
-   cd <название_репозитория>
+   git clone https://github.com/Elina117/Direct-Preference-Optimization-gpt2.git
+   cd Direct-Preference-Optimization-gpt2
 
 2. Установите зависимости
    ```bash
